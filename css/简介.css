@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px; padding:0px;}
+a{text-decoration:none;}
+a:link{color:#FFF;}
+a:visited{color:#FFF;}
+a:hover{height:inherit; color:#6FF;  background:#666; width:120px;height:70px;display:block;}
+
+ul li{list-style:none;}
+header{width:100%;height:671px;background:#333333;}
+	.one{height:71px;  width:1600px;margin:0 auto;}
+	.one-1{width:205px;float:left;}
+	.one-1 img{ margin-left:343px; }
+	.one-2{width:770px; float:right; font-size:18px; }
+	.one-2 li{width:120px; color:#FFF; float:left; margin:0px 8px; list-style:none;  line-height:70px; text-align:center;}
+	.one-2 li.navfontbg{background:#000;}
+	aside{height:1268px; width:1250px; margin:0 auto; margin-top:40px; }
+	.two{height:600px;background:url(../images/lvyou.PNG) no-repeat; background-size:100% 100%;}
+	.two-1{font-size:30px;  font-weight:bold; }
+	.two ul{color:#45329d; font-size:20px; line-height:40px; padding-top:150px; margin-left:150px;}
+	
+	aside{height:1268px; width:1250px; margin:0 auto; margin-top:40px; }
+	 .tbody{width:915px; height:1250px; float:left;}
+	 .word{line-height:25px;}
+	
+	
+	
+	 .tbody-1 li{padding-left:8px; padding-top:8px;}
+	.four{width:300px; height:405px; margin:0 14px;  border:1px #eeeeee solid; float:left;}
+	.four-1{width:300px; height:43px; color:#7b6f7d; font-size:16px;  background:rgb(250,250,250);}
+	.four-2{width:300px; height:270px; margin-top:12px;  }
+	.four-2-1{width:90px; height:40px; margin:5px; font-family:"微软雅黑"; color:#666;  background:rgb(238,238,238); display:inline-block; float:left;}
+	.four-2-1 p{padding:10px 7px;}
+	.four-3{width:300px; height:680px; margin:8px 14px; border:1px #eeeeee solid; float:left;}
+	.four-3-1{width:300px; height:40px; margin-top:8px; color:#7b6f7d; font-size:20px; background:rgb(250,250,250);} 
+	
+	.five{width:300px; height:660px; float:left; margin:0 25px; margin:14px;  border:1px #eeeeee solid;}
+	.five-1{width:300px; height:43px; color:#7b6f7d; font-size:20px;  background:rgb(250,250,250);}
+	.five-2{width:140px; height:130px; font-size:20px; text-align:center; margin-top:18px; padding-left:7px; border:none; float:left;}
+	figure img{height:260px; width:385px; float:left;}
+	figcaption{line-height:20px; margin-top:20px; color:#666; font-family:"微软雅黑"; font-size:17px;}
+	.bottom{width:200px; height:50px; border:none; border-radius:3px; margin-top:5px;}
+	
+	.six{width:300px; height:165px; float:left; margin:0 15px; border:1px #eeeeee solid;}
+	.six-1{width:300px; height:43px; color:#7b6f7d;   background:rgb(250,250,250);}
+	.six-2{width:140px; height:45px; margin:5px; font-family:"微软雅黑"; color:#666; background:rgb(238,238,238); display:inline-block; float:left;}
+	.six p{padding-top:15px; padding-left:26px;font-size:16px;}	
+	
+	
+section{width:100%;height:260px; background:#222222;}
+    .seven{width:1500px; height:250px; margin-left:295px; float:left;}
+	.eight ul{ width:300px; height:250px; float:left; margin:0px 65px; line-height:35px; color:#717880;margin-top:20px; font-size:18px; font-family:微软雅黑; }
+	.seven-1{font-size:28px; color:#CCC; font-family:微软雅黑;}
+	.seven-2{border:1px dashed #666666;}
+		
+footer{height:84px; background:#000000; font-size:17px; color:#787677; text-align:center; vertical-align:middle; padding-top:40px;}
